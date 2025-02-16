@@ -1,0 +1,9 @@
+/* index.css or Poster.css */
+.button-gap {
+    margin-right: 10px; /* Adjust the gap as needed */
+  }
+  
+  .button-gap:last-child {
+    margin-right: 0; /* Remove the gap on the last button */
+  }
+  
